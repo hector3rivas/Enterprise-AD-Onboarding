@@ -1,0 +1,4 @@
+FirstName,LastName,Username,Department,Title,OU,Group
+John,Smith,jsmith,IT,Help Desk Technician,"OU=IT Users,OU=Users OU,DC=lab,DC=local",IT
+Sarah,Johnson,sjohnson,HR,HR Specialist,"OU=HR Users,OU=Users OU,DC=lab,DC=local",HR
+Paul,Walker,pwalker,Accounting,Accountant,"OU=Accounting Users,OU=Users OU,DC=lab,DC=local",Accounting
