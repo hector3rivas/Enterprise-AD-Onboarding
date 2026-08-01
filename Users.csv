@@ -1,4 +1,11 @@
-FirstName,LastName,Username,Department,Title,OU,Group
-John,Smith,jsmith,IT,Help Desk Technician,"OU=IT Users,OU=Users OU,DC=lab,DC=local",IT
-Sarah,Johnson,sjohnson,HR,HR Specialist,"OU=HR Users,OU=Users OU,DC=lab,DC=local",HR
-Paul,Walker,pwalker,Accounting,Accountant,"OU=Accounting Users,OU=Users OU,DC=lab,DC=local",Accounting
+FirstName,LastName,Username,Department,Title
+John,Smith,jsmith,IT,Help Desk Technician
+Tom,Cruz,tcruz,IT,Network Support Technician
+Hector,Rivas,hrivas,IT,Cybersecurity Engineer
+Sarah,Johnson,sjohnson,HR,HR Specialist
+Paul,Walker,pwalker,Accounting,Accountant
+Denzel,Washington,dwashington,HR,HR Specialist
+Taylor,Swift,tswift,Accounting,Accountant
+Bruce,Banner,bbanner,HR,HR Coordinator
+Steve,Rogers,rrogers,Managers,Fearless Leader
+Tony,Stark,tstark,IT,IT Ultimate Leader
