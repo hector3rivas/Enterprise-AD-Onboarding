@@ -1,8 +1,10 @@
 ## About This Project
 
-I built this project as part of my Windows Server and # Enterprise AD Onboarding
+# Enterprise AD Onboarding
 
-Enterprise AD Onboarding is a PowerShell automation project that provisions Active Directory users from a CSV file. The script validates the input, checks for existing accounts, creates new users, places them into the correct Organizational Unit (OU), adds them to the appropriate security group, and logs all actions.
+Enterprise AD Onboarding is a PowerShell automation project that provisions Active Directory users from a CSV file.
+
+I built this project as part of my Windows Server and PowerShell home lab to strengthen my systems administration skills while preparing for a career in cybersecurity.
 
 ---
 
