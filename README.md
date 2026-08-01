@@ -1,6 +1,5 @@
-## About This Project
-
 # Enterprise AD Onboarding
+
 
 Enterprise AD Onboarding is a PowerShell automation project that provisions Active Directory users from a CSV file.
 
