@@ -6,6 +6,15 @@ Enterprise AD Onboarding is a PowerShell automation project that provisions Acti
 
 I built this project as part of my Windows Server and PowerShell home lab to strengthen my systems administration skills while preparing for a career in cybersecurity.
 
+
+## Highlights
+
+- Automated Active Directory user provisioning
+- Department-to-OU and Group mapping
+- PowerShell functions and parameter support
+- Comprehensive logging and validation
+- Version controlled with Git and published on GitHub
+
 ---
 
 ## Features
